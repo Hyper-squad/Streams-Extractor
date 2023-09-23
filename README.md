@@ -34,7 +34,7 @@
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Streams-Extractor)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hyper-squad/Streams-Extractor)
 
 ### Deploy in your vps
 ```sh
