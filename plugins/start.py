@@ -26,9 +26,8 @@ async def start(client, message):
                     InlineKeyboardButton(
                         "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/TroJanzHEX")
                 ]
-            ]
-        ),
-        reply_to_message_id=message.message_id
+            ])
+        
     )
 
 
