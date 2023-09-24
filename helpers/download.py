@@ -14,6 +14,7 @@ DATA = {}
 
 async def download_file(client, message):
     media = message.reply_to_message
+    print(media)
     if media.empty:
         await message.reply_text('Why did you delete that?? 😕', True)
         return
